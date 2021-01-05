@@ -1,3 +1,4 @@
+<img src="assets/laravel-lighthouse.png" alt="table and columns from each" style="float: left; width: 500px; text-align: center"/>
 # Laravel GraphQL
 To learn a little about GraphQL, I made a simple project that makes the relationship between users and posts with content and title, and here's what I did
 
